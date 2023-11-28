@@ -1,4 +1,4 @@
-# EDA-on-employee-data-set
+# EDA on Employee Data Set
 Exploratory Data Analysis or EDA involves the process of analyzing general patterns in data, summarizing main characteristics and gaining insights from it. An employee dataset is provided. Insights have to be obtained from this data.
 # The steps involved in this project are:
 1. Importing the required Python libraries
